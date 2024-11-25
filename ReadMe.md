@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-- This project involves performing customer segmentation using the K-Means clustering algorithm. The goal is to categorize customers based on their purchasing behavior, which is represented by several key features such as order quantity, unit cost, unit price, profit, revenue, and cost. The dataset used in this project contains information about customer transactions, and clustering is applied to understand patterns and group customers for targeted marketing, personalized offers, or other strategic purposes..
+- This project involves performing customer segmentation using the K-Means clustering algorithm. The goal is to categorize customers based on their purchasing behavior, which is represented by several key features such as order quantity, unit cost, unit price, profit, revenue, and cost. The dataset used in this project contains information about customer transactions, and clustering is applied to understand patterns and group customers for targeted marketing, personalized offers, or other strategic purposes.
 ---------------------------------------------------
 
 ## File Structure
@@ -25,7 +25,6 @@
 - Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 
 * Install required libraries:
-bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 -------------------------------------------------
 
