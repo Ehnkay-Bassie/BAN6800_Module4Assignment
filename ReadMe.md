@@ -8,7 +8,7 @@
 
 ## File Structure
 
-- BAN6800_Milestone1/
+- BAN6800_Module4Assignment/
 - ├── Cleaned_Customer_Segmentation.csv      # The cleaned dataset from Milestone 1 used for clustering
 - ├── Model_Development.ipynb                # Jupyter Notebook for performing the segmentation
 - └── README.md                              # Project README (this file)
