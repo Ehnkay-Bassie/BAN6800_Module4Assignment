@@ -25,7 +25,8 @@
 - Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 
 * Install required libraries:
-pip install pandas numpy matplotlib seaborn scikit-learn
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn ```
 -------------------------------------------------
 
 ## Repository
